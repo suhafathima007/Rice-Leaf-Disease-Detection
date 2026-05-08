@@ -1,2 +1,14 @@
-# Rice-Leaf-Disease-Detection
-AI-based rice leaf disease detection system using Python, Machine Learning, Deep Learning, and Image Processing for real-time disease classification and agricultural support.
+# AI-Based Rice Leaf Disease Detection System
+This project uses Python and Machine Learning techniques to detect rice leaf diseases using image processing.
+
+Technologies Used
+Python
+Machine Learning
+Deep Learning
+HTML
+CSS
+Features
+Disease detection
+Image classification
+Real-time prediction
+User-friendly interface
